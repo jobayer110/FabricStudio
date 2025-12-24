@@ -16,3 +16,4 @@ temp-icons/
 
 utils/Swagger/definition/
 utils/Swagger/FabricRESTAPI.zip
+.env
